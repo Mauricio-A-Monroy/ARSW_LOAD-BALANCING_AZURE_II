@@ -1,5 +1,6 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
+### Samuel Rojas y Mauricio Monroy
 
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
@@ -50,3 +51,6 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 * ¿Por qué la memoization falla o no funciona de forma correcta?
 * ¿Cómo funciona el sistema de facturación de las Function App?
 * Informe
+
+
+Las respuestas del laboratorio están en el archivo de word llamado Lab10
